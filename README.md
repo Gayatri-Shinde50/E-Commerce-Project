@@ -1,3 +1,3 @@
-E-commerce Transaction and Customer Analysis
+# E-commerce Transaction and Customer Analysis
 
 The objective of this analysis is to explore customer, seller, product, order, and payment details to derive actionable insights that can inform business decisions. The goal is to understand customer purchasing behavior, identify product trends, analyze geographical sales, and assess the performance of sellers. The analysis will also focus on key transaction metrics such as revenue, product sales, and payment methods. Additionally, the project can serve as a foundation for predictive modeling and recommendations, helping to identify high-value customers, forecast sales, and optimize the supply chain.
